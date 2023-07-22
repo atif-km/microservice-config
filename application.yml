@@ -1,3 +1,3 @@
 spring:
   application:
-    name: USER-SERVICE
+    name: DEFAULT-USER-SERVICE
