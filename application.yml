@@ -1,1 +1,3 @@
-sd sadf sd
+spring:
+  application:
+    name: USER-SERVICE
