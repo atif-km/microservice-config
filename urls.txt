@@ -10,3 +10,7 @@ http://localhost:8080/hotels
 http://localhost:8080/gethotel/{hotelId}
 
 
+eurek service url
+http://localhost:8761
+
+
