@@ -1,0 +1,12 @@
+http://localhost:8080/hotels
+
+post
+http://localhost:8080/addhotel
+
+
+http://localhost:8080/hotels
+
+
+http://localhost:8080/gethotel/{hotelId}
+
+

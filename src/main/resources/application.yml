@@ -1,0 +1,23 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: HOTEL-SERVICE
+  datasource:
+    url: jdbc:h2:mem:hotel-db
+    username: sa
+    password: 
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultzone: http://localhost:8761/
+      
